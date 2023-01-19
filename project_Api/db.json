@@ -1,39 +1,49 @@
 {
   "users": [
     {
+      "id": 1,
+      "name": "Hamza",
+      "username": "Ezzagmoute",
+      "email": "ezzagmoute.hamza@gmail.com"
+    },
+    {
       "id": 2,
-      "name": "abdelhadi jdd",
-      "username": "Antonette",
-      "email": "abdokasaji@gmail.com",
-      "requestId": "v8PSytogDzTqcjJqA6zch",
-      "signal": {},
-      "Eleindex": 1
+      "name": "abdelhadi ",
+      "username": "kasbaji",
+      "email": "abdokasaji@gmail.com"
+    
     },
     {
       "id": 3,
-      "name": "Charaf zitouni",
-      "username": "Samantha",
-      "email": "Charafzitouni@gmail.com",
-      "Eleindex": 2
+      "name": "Charaf",
+      "username": "zitouni",
+      "email": "Charafzitouni@gmail.com"
+
     },
     {
       "id": 4,
-      "name": "ouardi salahddine",
-      "username": "Karianne",
+      "name": " salahddine",
+      "username": "ouardi",
       "email": "ouardisalahddine@gmail.com"
     },
     {
       "id": 6,
-      "name": "Soufiane mardi",
-      "username": "Antonette",
-      "email": "Soufianemar@gmail.com",
-      "Eleindex": 4
+      "name": "Soufiane",
+      "username": "mardi",
+      "email": "Soufianemardi@gmail.com"
+ 
     },
     {
       "name": "lhcen",
       "username": "basha",
-      "email": "lmhcen@gmail.com",
+      "email": "lhcenbasha@gmail.com",
       "id": 7
+    },
+    {
+      "name": "ismail",
+      "username": "agherbi",
+      "email": "agherbi_ismail@gmail.com",
+      "id": 8
     }
   ]
 }
