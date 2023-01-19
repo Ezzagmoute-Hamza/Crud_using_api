@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "abdelhadi jdd",
+      "username": "Antonette",
+      "email": "abdokasaji@gmail.com",
+      "requestId": "v8PSytogDzTqcjJqA6zch",
+      "signal": {},
+      "Eleindex": 1
+    },
+    {
+      "id": 3,
+      "name": "Charaf zitouni",
+      "username": "Samantha",
+      "email": "Charafzitouni@gmail.com",
+      "Eleindex": 2
+    },
+    {
+      "id": 4,
+      "name": "ouardi salahddine",
+      "username": "Karianne",
+      "email": "ouardisalahddine@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Soufiane mardi",
+      "username": "Antonette",
+      "email": "Soufianemar@gmail.com",
+      "Eleindex": 4
+    },
+    {
+      "name": "lhcen",
+      "username": "basha",
+      "email": "lmhcen@gmail.com",
+      "id": 7
+    }
+  ]
+}
