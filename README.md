@@ -1,12 +1,12 @@
 
 ### go to the path of "Crud_usin_api/project_Api" folder and run the command below:
-ex:git
+
 ```
 npm run server
 
 ```
 ### go to the path of "Crud_usin_api/crud" folder and run the command below:
-ex:git
+
 ```
 npm install && npm start
 
